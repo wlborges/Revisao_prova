@@ -1,0 +1,23 @@
+.geral{
+    margin-top:10vh;
+    margin-left: 30vw;
+}
+.geral h1{
+    margin-bottom:10vh;
+    margin-left: 100px;
+}
+.geral form{
+    max-width: 400px;
+}
+.geral form h3{
+    margin-left: 39px;
+}
+
+.geral h2{
+    margin-top:5vh;
+    margin-left:100px;
+    color:green
+}
+.geral form button{
+    padding-top:12px
+}
